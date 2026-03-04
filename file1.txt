@@ -1,2 +1,7 @@
 Feature branch change
+<<<<<<< HEAD
 Different change from main branch
+=======
+Temporary change
+Different change from feature branch
+>>>>>>> feature1
