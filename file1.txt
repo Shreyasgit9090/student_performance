@@ -6,3 +6,4 @@ Temporary change
 Different change from feature branch
 >>>>>>> feature1
 Testing stash command
+This line is added for git diff demo
