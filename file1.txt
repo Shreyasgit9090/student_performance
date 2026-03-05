@@ -5,3 +5,4 @@ Different change from main branch
 Temporary change
 Different change from feature branch
 >>>>>>> feature1
+Testing stash command
